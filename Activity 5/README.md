@@ -15,7 +15,11 @@ After this activity, the students should be able to:
 ### Python Packages
 
 - cv2
+- numpy
+- google.colab.patches.cv2_imread()
 
 ### Media Files
 
-- viktor.png
+- Keyboard_cat.jpg
+- coins.jpg
+- planets.jpg
