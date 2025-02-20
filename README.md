@@ -1,4 +1,4 @@
-# Computer-Vision-Crash-Course
+# Computer Vision (Crash Course)
 Lab activities for Discussion 3.1 Exploring OpenCV in CPE 313
 ---
 Submitted by: De Guzman, Jemuel Endrew C.
